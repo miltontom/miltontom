@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @miltontom
-- 🌱 I’m currently learning C programming
+- 🌱 I’m currently learning the web trio!
 
 <!---
 miltontom/miltontom is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
