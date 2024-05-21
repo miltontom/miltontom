@@ -4,19 +4,19 @@
 
 ###
 
-<h2 align="left">Hi 👋! My name is Milton Tom and I'm  from India</h2>
+<h2 align="center">Hi 👋! My name is Milton Tom and I'm  from India</h2>
 
 ###
 
-<p align="left">"Living in a One Dark world, forever font of Hack and loving every line!" - Milton</p>
+<p align="center">"Living in a One Dark world, forever font of Hack and loving every line!" - Milton</p>
 
 ###
 
-<h2 align="left">Tech Arsenal</h2>
+<h2 align="center">Tech Arsenal</h2>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=lua" height="30" alt="lua logo"  />
@@ -46,7 +46,7 @@
 
 ###
 
-<h2 align="left">Stats</h2>
+<h2 align="center">Stats</h2>
 
 ###
 
