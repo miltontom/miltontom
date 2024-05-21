@@ -4,15 +4,15 @@
 
 ###
 
-<h2 align="center">Hi 👋! My name is Milton Tom and I'm  from India</h2>
+<h3 align="center">Hi 👋! My name is Milton Tom and I'm  from India</h3>
 
 ###
 
-<p align="center">"Living in a One Dark world, forever font of Hack and loving every line!" - Milton</p>
+<p align="center"><i>"Living in a One Dark world, forever font of Hack and loving every line!"</i> - Milton Tom</p>
 
 ###
 
-<h2 align="center">Tech Arsenal</h2>
+<h3 align="center">Tech Arsenal</h3>
 
 ###
 
@@ -46,7 +46,7 @@
 
 ###
 
-<h2 align="center">Stats</h2>
+<h3 align="center">Stats</h3>
 
 ###
 
