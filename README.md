@@ -8,7 +8,7 @@
 
 ###
 
-<p align="center"><i>"Living in a One Dark world, forever font of Hack and loving every line!"</i> - Milton Tom</p>
+<p align="center"><i>"Living in a <b>One Dark</b> world, forever font of <b>Hack</b> and loving every line!"</i> - Milton Tom</p>
 
 ###
 
