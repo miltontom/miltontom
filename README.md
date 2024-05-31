@@ -4,7 +4,7 @@
 
 ###
 
-<h3 align="center">Hi 👋! My name is Milton Tom and I'm  from India</h3>
+<h3 align="center">Hi 👋! I'm Milton Tom</h3>
 
 ###
 
