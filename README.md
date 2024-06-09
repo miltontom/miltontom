@@ -4,19 +4,21 @@
 
 ###
 
-<h3 align="center">Hi 👋! I'm Milton Tom</h3>
+<h2 align="left">Hi 👋! My name is Milton Tom and I'm from India</h2>
+
+###
+Currently I'm exploring different domains in development and making projects out of it.
+I also make games on the side, you can get them from [itch](https://miltontom.itch.io).
+
+<p align="left">"Living in a One Dark world, forever font of Hack and loving every line!" - Milton</p>
 
 ###
 
-<p align="center"><i>"Living in a <b>One Dark</b> world, forever font of <b>Hack</b> and loving every line!"</i> - Milton Tom</p>
+<h3 align="left">Languages and Tools</h2>
 
 ###
 
-<h3 align="center">Tech Arsenal</h3>
-
-###
-
-<div align="center">
+<div align="left">
   <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=lua" height="30" alt="lua logo"  />
@@ -41,16 +43,16 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=md" height="30" alt="markdown logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=windows" height="30" alt="markdown logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="30" alt="windows8 logo"  />
 </div>
 
 ###
 
-<h3 align="center">Stats</h3>
+<h3 align="left">Stats</h2>
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://streak-stats.demolab.com?user=miltontom&locale=en&mode=daily&theme=onedark&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api?username=miltontom&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=onedark&locale=en&hide_border=true" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=miltontom&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=onedark&hide_border=true" height="150" alt="languages graph"  />
