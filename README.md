@@ -8,6 +8,7 @@
 * I also do game development on the side, you can check 'em out from [here](https://miltontom.itch.io).
 
 ### Languages and Tools
+<div>
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=lua" height="40" alt="lua logo"  />
@@ -33,6 +34,7 @@
   <img src="https://skillicons.dev/icons?i=md" height="40" alt="markdown logo"  />
   <img width="5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
+</div>
 
 ### Stats
 <img src="https://streak-stats.demolab.com?user=miltontom&locale=en&mode=daily&theme=onedark&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
